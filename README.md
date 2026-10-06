@@ -1,24 +1,13 @@
 # Returns Reduction AI
 
-Predict which orders are likely to be returned, prevent avoidable returns at checkout, and automate the returns workflow end-to-end.
+Zion AI App Network (Batch 99 — Retail & E-commerce AI). Returns reduction copilot: root-cause clustering of returns, size/fit guidance and listing-quality fixes to cut return rates.
 
-Part of the **Zion AI App Network** — Batch 99 · Retail & E-commerce AI.
+- Live app: https://ziontechgroup.com/returns-reduction-ai/
+- Free AI Discovery (always online, always free): https://ziontechgroup.com/discovery/
+- Apps Network map: https://ziontechgroup.com/apps/network.html
+- All free apps: https://ziontechgroup.com/apps/
+- Batch 99 spotlight: https://ziontechgroup.com/apps/october-2026-batch99-retail.html
+- Related: https://ziontechgroup.com/visual-merchandising-ai/ · https://ziontechgroup.com/dynamic-pricing-retail-ai/ · https://ziontechgroup.com/review-sentiment-ai/
+- Commercial: commercial@ziontechgroup.com
 
-## Live & links
-- 🌐 Live app: https://ziontechgroup.com/returns-reduction-ai/
-- 🧭 Network hub: https://ziontechgroup.com/zion-app-network/
-- ✨ Free AI Discovery: https://ziontechgroup.com/discovery/
-- 🔗 Interlinks: see [ZION_APP_NETWORK.md](ZION_APP_NETWORK.md)
-
-## Features
-- ✅ Return-risk scoring per order/SKU
-- ✅ Fit & size recommendation nudges
-- ✅ Automated RMA triage and fraud flags
-- ✅ Margin-aware return vs keep-it logic
-
-## Get started
-1. Open the [live app](https://ziontechgroup.com/returns-reduction-ai/) — free, no signup.
-2. Not sure this is your #1 priority? Run the [free Discovery](https://ziontechgroup.com/discovery/) and get a tailored shortlist.
-3. Want it deployed in your stack? Email commercial@ziontechgroup.com.
-
-© 2026 Zion Tech Group · Middletown, DE
+Part of the Zion Tech Group free AI App Network — 870+ free, interlinked AI apps.
